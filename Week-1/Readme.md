@@ -54,7 +54,4 @@ Each class has a separate folder of images. This classification helps automate w
      - 15% validation
      - 15% test
 
----
-
-## 📁 Folder Structure
 
