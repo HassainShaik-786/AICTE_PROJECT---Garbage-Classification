@@ -16,3 +16,6 @@ We utilized **MobileNetV2** as the backbone model through **transfer learning**,
 
 With this approach, the model achieved an accuracy of **86%**, demonstrating its potential in supporting automated waste segregation — a vital component in modern environmental and recycling systems.
 
+### 📉 Why Not >90% Accuracy?
+Despite rigorous training and evaluation, our model achieved a maximum accuracy of **86%** due to:
+- Computational constraints limiting extended experimentation
