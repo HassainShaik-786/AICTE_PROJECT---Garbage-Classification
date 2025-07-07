@@ -14,7 +14,7 @@ We utilized **MobileNetV2** as the backbone model through **transfer learning**,
 - 📊 Evaluation using classification report and confusion matrix
 - 💾 Saved best-performing model after training (`garbage_classifier_final.h5`)
 
-With this approach, the model achieved an accuracy of **86%**, demonstrating its potential in supporting automated waste segregation — a vital component in modern environmental and recycling systems.
+With this approach, the model achieved an accuracy of **82%**, demonstrating its potential in supporting automated waste segregation — a vital component in modern environmental and recycling systems.
 
 ### 📉 Why Not >90% Accuracy?
 Despite rigorous training and evaluation, our model achieved a maximum accuracy of **86%** due to:
